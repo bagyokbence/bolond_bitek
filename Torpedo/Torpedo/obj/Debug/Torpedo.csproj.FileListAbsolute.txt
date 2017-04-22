@@ -1,0 +1,10 @@
+C:\nahajia\diakok_munkai\Bágyok Bence\Torpedo\Torpedo\bin\Debug\Torpedo.exe.config
+C:\nahajia\diakok_munkai\Bágyok Bence\Torpedo\Torpedo\bin\Debug\Torpedo.exe
+C:\nahajia\diakok_munkai\Bágyok Bence\Torpedo\Torpedo\bin\Debug\Torpedo.pdb
+C:\nahajia\diakok_munkai\Bágyok Bence\Torpedo\Torpedo\obj\Debug\Torpedo.exe
+C:\nahajia\diakok_munkai\Bágyok Bence\Torpedo\Torpedo\obj\Debug\Torpedo.pdb
+C:\Users\BGKSZK104\Desktop\Torpedo\Torpedo\bin\Debug\Torpedo.exe.config
+C:\Users\BGKSZK104\Desktop\Torpedo\Torpedo\obj\Debug\Torpedo.exe
+C:\Users\BGKSZK104\Desktop\Torpedo\Torpedo\obj\Debug\Torpedo.pdb
+C:\Users\BGKSZK104\Desktop\Torpedo\Torpedo\bin\Debug\Torpedo.exe
+C:\Users\BGKSZK104\Desktop\Torpedo\Torpedo\bin\Debug\Torpedo.pdb
